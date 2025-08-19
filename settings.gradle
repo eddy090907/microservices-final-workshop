@@ -1,0 +1,5 @@
+rootProject.name = 'Banco'
+include 'api-gateway'
+include 'bank-services'
+include 'auth-service'
+
